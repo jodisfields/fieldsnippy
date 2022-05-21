@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 FieldSnipPy</h1>
+<h1 align="center">🚀 FieldSnipPy</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/jodisfields/fieldsnippy?color=lime">
@@ -9,21 +9,6 @@
 </p>
 
 <hr>
-
-## 📚 About
-
-Fieldsnippy is a snippet management tool intended to increase productivity whilst encouraging code reusability and consistency.
-
-&#xa0;
-
-## ✨ Features
-
-:heavy_check_mark: Full site search
-:heavy_check_mark: Built in versioning
-:heavy_check_mark: Built in analytics
-:heavy_check_mark: Code annotations
-
-&#xa0;
 
 ## 🏁 Getting Started
 
