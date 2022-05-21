@@ -7,16 +7,8 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/jodisfields/fieldsnippy?color=lime">
 </p>
-<p align="center">
-  <img alt="Github issues" src="https://img.shields.io/github/issues/jodisfields/fieldsnippy?color=lime">
-
-  <img alt="Github forks" src="https://img.shields.io/github/forks/jodisfields/fieldsnippy?color=lime">
-
-  <img alt="Github stars" src="https://img.shields.io/github/stars/jodisfields/fieldsnippy?color=lime">
-</p>
 
 <hr>
-
 
 ## 📚 About
 
